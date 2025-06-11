@@ -8,4 +8,5 @@ build
 DCNv2.egg-info
 dist
 vendor/
-
+*.local.json
+.claude/
